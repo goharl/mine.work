@@ -11,9 +11,9 @@ html{background-color: black;}
 #h1{-webkit-text-fill-color: black;}
 #h1{background-color: yellow;}
 #h1{text-align: center;}
-#p1{-webkit-text-fill-color: white;}
+#p1{-webkit-text-fill-color: black;}
 #p1{text-align: center;}
-#p2{-webkit-text-fill-color: white;}
+#p2{-webkit-text-fill-color: black;}
 #p2{text-align: center;}
 #img{display: block;
     margin-left: auto;
